@@ -1,4 +1,5 @@
 def a(message):
-    print(message)
+    print(lalith)
 
 a("Hello, lalith")
+
